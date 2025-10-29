@@ -37,6 +37,7 @@ and install it on your Android device.
 `calculator` `math` `android` `open-source` `simple-app` `calculator-master-pro` `kotlin` `java` `free-app`
 
 ---
+<meta name="google-site-verification"google7b5ab2e403f9e492.html">
 
 ## 📜 License
 MIT License © 2025 [MD.KAMRUL]
