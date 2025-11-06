@@ -34,7 +34,7 @@ and install it on your Android device.
 ---
 
 ## Tags
-`calculator` `math` `android` `open-source` `simple-app` `calculator-master-pro` `kotlin` `java` `free-app`
+`calculator` `math` `android` `open-source` `simple-app` `calculator-master-pro` `kotlin` `java` `free-app`  `bangla` `islamic-finance`
 
 ---
 
