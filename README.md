@@ -21,7 +21,7 @@ Solve your daily math tasks quickly – clean UI, dark mode, offline support, an
 ---
 
 ## Installation
-Download the latest APK file from the [Releases](https://github.com/calculator-master-pro/Calculator-Master-Pro/releases/download/v4.10.2/Calculator.Master.Pro.apk) section  
+Download the latest APK file from the [Releases]https://github.com/calculator-master-pro/Calculator-Master-Pro-App/releases section  
 and install it on your Android device.
 
 ---
